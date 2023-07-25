@@ -9,7 +9,7 @@ public class BankApp{
 		
 		if (a<1) {
 			
-			System.out.println("a is smaller");
+			
 		}
 		else
 			
